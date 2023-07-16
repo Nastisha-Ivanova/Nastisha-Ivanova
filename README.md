@@ -39,7 +39,7 @@
     </p>
 
 <h2>Статистика</h2>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nastisha-ivanova" alt="nastisha-ivanova" />
 </p>
 
