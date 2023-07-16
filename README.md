@@ -36,6 +36,18 @@
       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
       </a>
+      <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
+        <img src="https://static1.smartbear.co/smartbearbrand/media/images/logos/product-only/su_product-only-clr.svg" alt="soapui" width="40" height="40"/>
+      </a>
+      <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" alt="charles" width="40" height="40"/>
+      </a>
+      <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer">
+        <img src="https://static-00.iconduck.com/assets.00/browserstack-icon-512x511-xfk7rgj2.png" alt="browserstack" width="40" height="40"/>
+      </a>
+      <a href="https://www.testrail.com/platform/" target="_blank" rel="noreferrer">
+        <img src="https://media.gurock.com/gk-media/logos/TestRail%20Logo%20Square.svg" alt="testrail" width="40" height="40"/>
+      </a>
     </p>
 
 <h2>Статистика</h2>
