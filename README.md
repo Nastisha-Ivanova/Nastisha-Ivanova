@@ -2,7 +2,7 @@
 <h3 align="center">Я инженер по тестированию ПО с опытом работы более 1 года. Работала в компании ООО "BIV" на проекте по разработке веб-приложения личного кабинета для физических лиц Сбербанк Страхование. В настоящее время работаю инженером по тестированию в ООО "Ланит Экспертиза". Параллельно занимаюсь развитием своих профессиональных навыков, а именно изучаю тестирование мобильных приложений и основы SQL на курсе у Вадима Ксендзова</h3>
 
   </div>
-  <img align="center" alt="Testing" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xiNmJlNHh3dTZ0cThvZHEzZHV3bW56aWh0bWJ3bXR2aGFkd2h2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.gif">
+  <img align="right" alt="Testing" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xiNmJlNHh3dTZ0cThvZHEzZHV3bW56aWh0bWJ3bXR2aGFkd2h2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.gif">
 </div>
 
 <div style="display: flex;">
